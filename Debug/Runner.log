@@ -1,0 +1,14 @@
+﻿  File not found - *.dll
+  0 File(s) copied
+  Cleanup.cpp
+  CollisionDetection.cpp
+  Event.cpp
+  Game.cpp
+  Init.cpp
+d:\game202 - object oriented programming\game202 - labs\lab7\infinite runner\init.cpp(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\game202 - object oriented programming\game202 - labs\lab7\infinite runner\init.cpp(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\game202 - object oriented programming\game202 - labs\lab7\infinite runner\init.cpp(82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Loop.cpp
+  Render.cpp
+  Generating Code...
+  Runner.vcxproj -> D:\GAME202 - Object Oriented Programming\GAME202 - Labs\Lab7\Infinite Runner\Debug\Runner.exe
